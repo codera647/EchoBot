@@ -1,6 +1,6 @@
 ## Echo Bot 
 
-![Project Logo](images/logo.png)
+![Project Logo](images/echo1.PNG)
 
 
 
